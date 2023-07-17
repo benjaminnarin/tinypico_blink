@@ -1,0 +1,20 @@
+{
+    // Loaded Stubs:  micropython-esp32-um-tinypico-stubs 
+    
+    "python.languageServer": "Pylance",
+    "python.analysis.autoSearchPath": true,
+    "python.autoComplete.extraPaths": [".micropy/micropython_esp32_um_tinypico_stubs-1.19.1.post7", ".micropy/tinypico_blink"],
+    "python.analysis.diagnosticSeverityOverrides": { "reportMissingModuleSource": "none" },
+    "python.analysis.typeCheckingMode": "basic",
+    "python.autoComplete.typeshedPaths":  [".micropy/micropython_esp32_um_tinypico_stubs-1.19.1.post7", ".micropy/tinypico_blink", "typings"],
+    "python.analysis.typeshedPaths":  [".micropy/micropython_esp32_um_tinypico_stubs-1.19.1.post7", ".micropy/tinypico_blink", "typings"],
+    
+    
+
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.analysis.extraPaths": [
+        ".micropy/micropython_esp32_um_tinypico_stubs-1.19.1.post7",
+        ".micropy/tinypico_blink"
+    ]
+}
